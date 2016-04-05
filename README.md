@@ -1,2 +1,2 @@
 # Aurizone
-application
+application malvoyant
